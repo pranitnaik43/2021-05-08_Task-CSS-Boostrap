@@ -1,0 +1,28 @@
+.myHeader {
+  font-size: 70px;
+}
+#font-12 {
+  font-size: 10px;
+}
+.myFont-10 {
+  font-size: 10px;
+}
+.myTag{
+  border-bottom: 25px solid rgb(141, 27, 27);
+	border-right: 10px solid transparent; 
+	height: 5px;
+	width: max-content;
+  margin-top: -14px;
+  z-index: 2;
+}
+.myQuote {
+  font-size: 15px;
+}
+img {
+  background-color: rgb(206, 204, 204);
+}
+.myPageNo {
+  right: 10px; 
+  bottom: 50px; 
+  font-size: 10px
+}
